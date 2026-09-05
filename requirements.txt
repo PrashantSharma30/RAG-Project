@@ -23,6 +23,7 @@ pypdf
 unstructured
 beautifulsoup4
 lxml
+langchain-pymupdf4llm
 
 # Text Processing
 
